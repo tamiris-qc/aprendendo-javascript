@@ -1,2 +1,2 @@
 # javascript
-Repositório do curso de Javascript da Comunidade Dev Completo.
+Repositório de estudos do curso de Javascript da Comunidade Dev Completo.
